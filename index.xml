@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://martinjimenezzwork.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>&#34;La Cabina&#34;</title>
-      <link>https://martinjimenezzwork.github.io/docs/post-1/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://martinjimenezzwork.github.io/docs/post-1/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
       <title>Modelación 3D y Render</title>
       <link>https://martinjimenezzwork.github.io/docs/render/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -32,6 +23,15 @@
       
       <guid>https://martinjimenezzwork.github.io/docs/parametric-furniture/</guid>
       <description>Modelación y Render.</description>
+    </item>
+    
+    <item>
+      <title>Proyectos Personales</title>
+      <link>https://martinjimenezzwork.github.io/docs/post-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://martinjimenezzwork.github.io/docs/post-1/</guid>
+      <description>Camper</description>
     </item>
     
     <item>
