@@ -8,39 +8,30 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://martinjimenezzwork.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Encargos Taller</title>
-      <link>https://martinjimenezzwork.github.io/docs/encargos/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://martinjimenezzwork.github.io/docs/encargos/</guid>
-      <description>Encargos de Taller de Productos</description>
-    </item>
-    
-    <item>
-      <title>Modelación 3D y Render</title>
-      <link>https://martinjimenezzwork.github.io/docs/render/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://martinjimenezzwork.github.io/docs/render/</guid>
-      <description>Modelación y Render.</description>
-    </item>
-    
-    <item>
       <title>Parametric Furniture</title>
       <link>https://martinjimenezzwork.github.io/docs/parametric-furniture/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://martinjimenezzwork.github.io/docs/parametric-furniture/</guid>
-      <description>Trabajo Silla.</description>
+      <description>Unidad 1</description>
     </item>
     
     <item>
-      <title>Proyectos Personales</title>
-      <link>https://martinjimenezzwork.github.io/docs/post-1/</link>
+      <title>Bits &amp; Bites</title>
+      <link>https://martinjimenezzwork.github.io/docs/bits-bites/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://martinjimenezzwork.github.io/docs/post-1/</guid>
-      <description>Proyectos personales</description>
+      <guid>https://martinjimenezzwork.github.io/docs/bits-bites/</guid>
+      <description>Unidad 2</description>
+    </item>
+    
+    <item>
+      <title>Modelación 3D y Render</title>
+      <link>https://martinjimenezzwork.github.io/docs/3d-y-render/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://martinjimenezzwork.github.io/docs/3d-y-render/</guid>
+      <description>Modelación y Render.</description>
     </item>
     
     <item>
@@ -59,6 +50,15 @@
       
       <guid>https://martinjimenezzwork.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Proyectos Personales</title>
+      <link>https://martinjimenezzwork.github.io/docs/proyectos-personales/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://martinjimenezzwork.github.io/docs/proyectos-personales/</guid>
+      <description>Proyectos personales</description>
     </item>
     
   </channel>
